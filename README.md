@@ -1,5 +1,5 @@
 # projeto-etl
-Pipeline ETL que organiza, trata e analisa os dados de gastos da cota parlamentar entre os anos de 2009 e 2020
+Pipeline ETL que organiza, trata e analisa os dados de gastos da cota parlamentar entre os anos de 2009 e 2020 -> foi upado somente os scripts das consultas e do etl pois as camadas e o csv ultrapassam o tamanho que o github suporta
 ## Pipeline ETL
 
 - **Camada Bronze:** Leitura do CSV original e conversão para Parquet.
