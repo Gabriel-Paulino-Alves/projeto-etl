@@ -16,8 +16,7 @@ Consultas SQL diretamente sobre os arquivos `.parquet`, como:
 
 ## ▶️ Vídeo explicativo
 
-[🔗 Link para o vídeo explicando o funcionamento do projeto no YouTube](https://youtube.com)  
-_(adicione aqui o link após subir o vídeo)_
+https://youtu.be/aIteHt2ctms
 
 ---
 
